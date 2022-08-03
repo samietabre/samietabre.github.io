@@ -1,0 +1,43 @@
+
+
+
+
+h1{ text-align: center;
+color: chartreuse;
+
+}
+
+
+p{
+white-space:pre-wrap ;
+word-wrap: break-word;
+word-break: keep-all;
+width: 900px;
+
+font-size: xx-large;
+
+
+}
+
+.dedo {
+    text-align:center;
+    font-size: x-large;
+}
+
+
+p{
+    text-align: center;
+}
+li {
+    font-size: x-large;
+    text-align: left;
+}
+
+
+
+.dedo{
+    text-align: center;
+}
+.nane{
+    text-align: center;
+}
